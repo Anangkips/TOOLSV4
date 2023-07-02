@@ -1,16 +1,29 @@
-# TOOLSV4
-pkg update && pkg upgrade
+### Table of contents
 
-pkg install git
+* [EAS Phish](https://github.com/pembriahmad/EAS-Phish)
+* [Get Linux](https://github.com/pembriahmad/Get-Linux)
+* [DDOS Attack](https://github.com/pembriahmad/DDOS)
+* [Bash Crypt](https://github.com/pembriahmad/Bash-Crypt)
 
-cd
+# Bash-Crypt
 
-rm -rf TOOLSV3 TOOLSV4
+Tool for encryption and descriptions file shell script
+#python2
 
-git clone https://github.com/Galirus404/TOOLSV4
+# How To Installations
 
-cd TOOLSV4
+* ```pkg install python2```
+* ```pkg install git```
+* ```git clone https://github.com/pembriahmad/Bash-Crypt```
+* ```cd Bash-Crypt```
+* ```chmod +x install-crypt.sh```
+* ```bash install-crypt.sh```
 
-bash install.sh
+Type in command  ```python2 crypt.py``` to run the script
 
-wajib install apt/sudo dulu
+# Sources 
+ * Github https://github.com/pembriahmad
+ * Gitlab Project https://gitlab.com/pembriahmad/resources
+
+# Screenshot
+![](https://gitlab.com/pembriahmad/resources/-/raw/master/Bash-Crypt/Screenshot_20201005-132759.jpg)
